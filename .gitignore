@@ -1,0 +1,5 @@
+2017_individual_files/*
+2018_individual_files/*
+*.csv
+oneminutedata/*
+research/*.csv
